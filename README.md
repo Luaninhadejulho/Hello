@@ -16,6 +16,8 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=000)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-00B060?style=flat&logo=microsoft-excel&logoColor=white)
+
 
 ## 📌 Em construção
 
