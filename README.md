@@ -25,5 +25,5 @@
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://linkedin.com/in/luana-alves-533934178)
-[![Email](lu987698951@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luana-alves-533934178)
+[![Email](https://img.shields.io/badge/E--mail-lu987698951@gmail.com-lightgrey)](mailto:lu987698951@gmail.com)
