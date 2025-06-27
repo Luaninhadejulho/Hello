@@ -20,8 +20,8 @@
 ## 📌 Em construção
 
 📊 Dashboards nas áreas de Vendas, RH e Financeiro em Power BI
-📂 Projeto de ETL com Python e Pandas 
-📈 Análise preditiva com dados fictícios
+📂 Projetos de VBA
+📈 Análises preditiva e descritiva com Python
 
 ## 🌐 Onde me encontrar
 
