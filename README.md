@@ -6,8 +6,8 @@
 
 ## 💼 Portfólio de Projetos
 
-🔹 [Cadastro Automático de Clientes (Python + Excel + PyAutoGUI)](https://github.com/Luaninhadejulho/cadastro-automatico)  
-🔹 Dashboards em Power BI
+🔹 [Cadastro Automático de Clientes (Python + Excel + PyAutoGUI)](https://github.com/Luaninhadejulho/cadastro-automatico)
+🔹 [Dashboards em Power BI](https://github.com/Luaninhadejulho/Dashboards)
 🔹 Projetos VBA (em breve)
 🔹 Mais projetos Python (em breve)
 
@@ -20,10 +20,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-00B060?style=flat&logo=microsoft-excel&logoColor=white)
 
-
 ## 📌 Em construção
 
-📊 Dashboards nas áreas de Vendas, RH e Financeiro em Power BI
 📂 Projetos de VBA
 📈 Análises preditiva e descritiva com Python
 
