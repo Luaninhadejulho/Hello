@@ -8,7 +8,7 @@
 
 🔹 [Cadastro Automático de Clientes (Python + Excel + PyAutoGUI)](https://github.com/Luaninhadejulho/cadastro-automatico)
 🔹 [Dashboards em Power BI](https://github.com/Luaninhadejulho/Dashboards)
-🔹 Projetos VBA (em breve)
+🔹 Projetos VBA, Figma, Photoshop, After Effects (em breve)
 🔹 Mais projetos Python (em breve)
 
 ## 🛠️ Tecnologias e Ferramentas
