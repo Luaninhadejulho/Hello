@@ -7,7 +7,9 @@
 ## 💼 Portfólio de Projetos
 
 🔹 [Cadastro Automático de Clientes (Python + Excel + PyAutoGUI)](https://github.com/Luaninhadejulho/cadastro-automatico)  
-🔹 Dashboards em Power BI (em breve)
+🔹 Dashboards em Power BI
+🔹 Projetos VBA (em breve)
+🔹 Mais projetos Python (em breve)
 
 ## 🛠️ Tecnologias e Ferramentas
 
